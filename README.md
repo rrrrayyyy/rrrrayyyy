@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/rrrrayyyy?theme=unicorn&font=Roboto%20Flex&ext=contest)
+
 <!--
 **rrrrayyyy/rrrrayyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
