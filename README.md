@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,kubernetes,go,java,gradle,kafka,redis,cassandra)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,kubernetes,go,java,spring,kafka,redis,cassandra)](https://skillicons.dev)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rrrrayyyy?theme=unicorn&font=Roboto%20Flex&ext=contest)
 
