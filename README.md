@@ -2,7 +2,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,kubernetes,go,java,spring,kafka,redis,cassandra)](https://skillicons.dev)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rrrrayyyy?theme=unicorn&font=Roboto%20Flex&ext=contest)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=rrrrayyyy&theme=dark&filter=comp&border=border&animated=true" alt="LeetCode Badges" />
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/rrrrayyyy?theme=unicorn&font=Roboto%20Flex&ext=contest) -->
 
 <!--
 **rrrrayyyy/rrrrayyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
