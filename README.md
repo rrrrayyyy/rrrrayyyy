@@ -2,7 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,kubernetes,go,java,spring,kafka,redis,cassandra)](https://skillicons.dev)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=rrrrayyyy&theme=dark&filter=comp&border=no-border&animated=true" alt="LeetCode Badges" />
+<a href="https://leetcode.com/u/rrrrayyyy/">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=rrrrayyyy&theme=dark&filter=comp&border=no-border&animated=true" alt="LeetCode Badges" />
+</a>
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/rrrrayyyy?theme=unicorn&font=Roboto%20Flex&ext=contest) -->
 
 <!--
