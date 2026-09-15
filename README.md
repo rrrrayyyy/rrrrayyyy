@@ -3,8 +3,10 @@
 [![My Skills](https://skillicons.dev/icons?i=gcp,kubernetes,go,java,spring,kafka,redis,cassandra)](https://skillicons.dev)
 
 <a href="https://leetcode.com/u/rrrrayyyy/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/rrrrayyyy?theme=dark&font=Carter%20One&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/rrrrayyyy?theme=nord&font=Roboto%20Flex&ext=contest" alt="LeetCode Stats" />
 </a>
+
+
 
 <!--
 **rrrrayyyy/rrrrayyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
