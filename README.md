@@ -7,7 +7,10 @@ Mostly Go on GCP (Spanner, Pub/Sub, gRPC).
 [![My Skills](https://skillicons.dev/icons?i=gcp,kubernetes,go,java,spring,kafka,redis,cassandra)](https://skillicons.dev)
 
 ### Writing
-**Designing a Zero Downtime Migration Solution with Strong Data Consistency** for an account balance service (Nov 2024)
+**Designing a Zero Downtime Migration Solution with Strong Data Consistency** (Nov 2024)
+
+I designed a migration solution for an account balance service.
+
 - [Part I](https://engineering.mercari.com/en/blog/entry/20241113-designing-a-zero-downtime-migration-solution-with-strong-data-consistency-part-i/)
 - [Part II](https://engineering.mercari.com/en/blog/entry/20241113-designing-a-zero-downtime-migration-solution-with-strong-data-consistency-part-ii/)
 - [Part III](https://engineering.mercari.com/en/blog/entry/20241113-designing-a-zero-downtime-migration-solution-with-strong-data-consistency-part-iii/)
